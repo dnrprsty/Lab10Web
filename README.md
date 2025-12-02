@@ -155,7 +155,7 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
-![ss](form.png)
+![ss](form_input.png)
 
 ## Class Library — Database Connection
 ## File: config.php
